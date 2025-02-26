@@ -1,2 +1,2 @@
 # django-API
-dajng api backend
+django api backend
